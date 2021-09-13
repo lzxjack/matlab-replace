@@ -1,5 +1,7 @@
-在MATLAB中计算出的表达式，转换成矩阵形式：
+因为最近经常用到，每次都要全局替换，干脆写一个小应用吧。
+
+在**MATLAB**中计算出的表达式，转换成矩阵形式：
 
 将表达式中的`/`、`^`、`*`分别换成`./`、`.^`、`.*`。
 
-[点击转换](https://matlab-replace-4g794mjk7eb847a1-1304393382.ap-shanghai.app.tcloudbase.com/)
+[点击转换](https://matlab-replace-4g794mjk7eb847a1-1304393382.tcloudbaseapp.com/)
