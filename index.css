@@ -1,0 +1,25 @@
+.App-box {
+    margin: auto;
+    width: 1600px;
+    height: 800px;
+    display: flex;
+}
+
+.before,
+.after {
+    padding: 30px;
+    font-size: 20px;
+    resize: none;
+    outline: none;
+    border: 0;
+}
+
+.before {
+    flex: 1;
+    background-color: rgb(242, 247, 175);
+}
+
+.after {
+    flex: 1;
+    background-color: rgb(175, 247, 241);
+}
